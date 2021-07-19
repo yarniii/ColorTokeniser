@@ -1,0 +1,6 @@
+I:\Andrew\progi\rabota1\ColorTokeniser (3)\ColorTokeniser\bin\Debug\ColorTokeniser.exe
+I:\Andrew\progi\rabota1\ColorTokeniser (3)\ColorTokeniser\bin\Debug\ColorTokeniser.pdb
+I:\Andrew\progi\rabota1\ColorTokeniser (3)\ColorTokeniser\obj\Debug\ColorTokeniser.csproj.CoreCompileInputs.cache
+I:\Andrew\progi\rabota1\ColorTokeniser (3)\ColorTokeniser\obj\Debug\ColorTokeniser.exe
+I:\Andrew\progi\rabota1\ColorTokeniser (3)\ColorTokeniser\obj\Debug\ColorTokeniser.pdb
+I:\Andrew\progi\rabota1\ColorTokeniser (3)\ColorTokeniser\obj\Debug\ColorTokeniser.csproj.AssemblyReference.cache
